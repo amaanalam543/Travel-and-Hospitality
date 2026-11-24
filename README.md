@@ -59,4 +59,10 @@ Provides an individual booking-level table accessible by right-clicking any char
 
 * **Amaan Alam**
 
+## Screenshots
+
 ![Dashboard Preview](Snapshot%20of%20Dashboard.png)
+![Dashboard Preview](Report%201.png)
+![Dashboard Preview](Report%202.png)
+![Dashboard Preview](Report%203.png)
+![Dashboard Preview](Drill%20Through.png)
