@@ -58,3 +58,5 @@ Provides an individual booking-level table accessible by right-clicking any char
 ## Author
 
 * **Amaan Alam**
+
+ ![Dashboard Preview](http://github.com/amaanalam543/Travel-and-Hospitality/blob/main/Snapshot%20of%20Dashboard.png)
