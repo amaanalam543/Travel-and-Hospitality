@@ -2,6 +2,8 @@
 
 An interactive five-page Power BI report analyzing revenue, bookings, cancellations, guest demographics, and hotel operations across a **City Hotel** and a **Resort Hotel** (2015–2017).
 
+http://github.com/amaanalam543/Travel-and-Hospitality/blob/main/Snapshot%20of%20Dashboard.png
+
 ## Project Overview
 
 This dashboard transforms raw hotel booking records into actionable insights for hotel management, covering financial performance, cancellation risk, customer loyalty, and operational demand.
